@@ -1,5 +1,5 @@
-<h1 align="center"> Yes as a Service (YaaS) </h1>
-<p align="center">A blazingly fast, Rust-powered, AI agnostic affirmative phrase generator</bold>
+<img align="center" width="1600" height="800" alt="Yes as a Service YaaS" src="https://github.com/user-attachments/assets/2098093e-81ac-4658-a684-7f616fa7985e" />
+<p align="center">A blazingly fast, Rust-powered, and AI agnostic affirmative phrase generator</bold>
 <p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/makors/yaas" />
   <img alt="Watchers" src="https://img.shields.io/github/watchers/makors/yaas" />
